@@ -2,7 +2,7 @@
   "name": "segvcatcher"
   ,"description": "catches SIGSEGV and prints diagnostic information"
   ,"private": "true"
-  ,"version": "0.1.0"
+  ,"version": "0.1.3"
   ,"zseattle-autobuild": "1"
   ,"contributors": [
     "Dave Dopson <ddopson@zynga.com>"
